@@ -1,5 +1,5 @@
 # Coding4ET
-coding for English Teachers
+Coding for English Teachers
 
 ## Review
 This is the body
