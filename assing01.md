@@ -1,5 +1,5 @@
 ## To foster the learning in every student by using a Nearpod
-https://nearpod.com
+https://nearpod.com    https://www.onenote.com/learningtools
 
 
 ## Immersive Reader Characteristics
