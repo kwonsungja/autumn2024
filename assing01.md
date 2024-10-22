@@ -4,6 +4,7 @@ https://nearpod.com    https://www.onenote.com/learningtools
 
 ## Immersive Reader Characteristics
 
++ [Reading text](https://github.com/kwonsungja/autumn2024/blob/main/text%20sample.md)
 * It can recognize sentences or texts when using AI that makes voice read original languages. 
 
 * It provides lexical meaning of the specific word, classifies parts of speech with words,
